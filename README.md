@@ -1,2 +1,3 @@
 # Git-Practice
 Git Tutorials by edureka
+This is purely for tutorial purpose...
